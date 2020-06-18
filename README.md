@@ -1,6 +1,6 @@
-# test
-# python---CSE20
-this is cse20
-# 364903129-python---CSE20
-this is CSE20
-cse20
+# CSE20 Introduction to python
+pa1 - hello.py
+pa2 - guess my number game
+pa3 - calculator
+pa4 - hangman game
+pa5 - tic tac toe game
